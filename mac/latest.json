@@ -1,0 +1,13 @@
+{
+  "version": "0.1.15",
+  "generatedAt": "2026-07-02T17:17:17.998Z",
+  "builds": {
+    "arm64": {
+      "manifest": "./arm64/manifest.json",
+      "fileName": "Virte-macOS-arm64.dmg",
+      "size": 145625394,
+      "sha256": "CA8BF53DC9CAF9ACFF56A00B7C76877C48F4009AF0C2A57C02AFB7BD183FB8D1",
+      "parts": 4
+    }
+  }
+}

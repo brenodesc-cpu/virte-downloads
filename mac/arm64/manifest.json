@@ -1,0 +1,31 @@
+{
+  "version": "0.1.15",
+  "arch": "arm64",
+  "fileName": "Virte-macOS-arm64.dmg",
+  "size": 145625394,
+  "sha256": "CA8BF53DC9CAF9ACFF56A00B7C76877C48F4009AF0C2A57C02AFB7BD183FB8D1",
+  "partSize": 47000000,
+  "generatedAt": "2026-07-02T17:17:17.996Z",
+  "parts": [
+    {
+      "name": "part-01.bin",
+      "size": 47000000,
+      "sha256": "14B3E6226C444F91A6328386CA203D6A76AEDD6E9805810D6EA68CBE43A7F1A2"
+    },
+    {
+      "name": "part-02.bin",
+      "size": 47000000,
+      "sha256": "DDCAB9BAF16AD0AD7242CC6718116C36CCDD02DA2CDD7709FF4CEB0BBC490F5F"
+    },
+    {
+      "name": "part-03.bin",
+      "size": 47000000,
+      "sha256": "A051C4BF3292D46CCFA3CE1AD913C3B939E6B16C0E304E451BA5FAEEA13CB497"
+    },
+    {
+      "name": "part-04.bin",
+      "size": 4625394,
+      "sha256": "C25636140FA995CF34AAD171ED984E722B3E62CE5533E0EC4C9A00D9BA02577F"
+    }
+  ]
+}
